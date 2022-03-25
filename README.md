@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+# calculatorReact
+React - Projeto com objetivo em treinar fundamentos básicos/introdutórios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# calculatorReact
-React - Projeto com objetivo em treinar fundamentos básicos/introdutórios
 >>>>>>> 3b571bb3853a8486b58fcb3102e51c3ee2eaef4f
