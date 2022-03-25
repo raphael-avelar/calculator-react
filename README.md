@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # calculatorReact
 React - Projeto com objetivo em treinar fundamentos básicos/introdutórios
 
@@ -73,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
->>>>>>> 3b571bb3853a8486b58fcb3102e51c3ee2eaef4f
